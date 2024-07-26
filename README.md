@@ -1,4 +1,4 @@
-# Teste SENAI
+# Teste SENAI 1: Análise de sentimentos
 
 
 
@@ -23,3 +23,6 @@ Logo após fiz um fit do modelo.
 
 
 ![image](https://github.com/user-attachments/assets/8de7d8dd-9e59-4f5f-8816-789f01f56b13)
+
+
+# Teste SENAI 2: Análise de qual é o idioma 
