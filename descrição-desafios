@@ -1,0 +1,42 @@
+Descrição Desafio 1
+
+Elabore uma estratégia e construa um sistema que seja capaz de responder a qual idioma uma frase qualquer pertence.
+
+Por Exemplo:
+
+eu gosto de café → por
+
+I like coffee→ eng
+
+# Material de Apoio
+
+- Lista vários exemplos de frases (você pode utilizar outras bases de dados): http://www.manythings.org/anki/
+
+# Requisitos
+
+- Atender a pelo menos 3 línguas (inglês, português e alemão, por exemplo)
+- Use Python 3+ (e CAFÉ ☕️) para resolver o problema
+- Utilize o git e o github para versionar seu código. Tente enviar (commits) todas etapas de evolução da sua implementação.
+- Crie um readme.md para explicar como utilizar o seu projeto.
+
+
+# Descrição Desafio 2
+
+Elabore um serviço que seja capaz de detectar se uma determinada frase inserida corresponde a um destes sentimentos (felicidade, tristeza e raiva)
+
+Exemplo:
+
+Não quero saber de nada, eu te odeio! —> raiva
+
+Sinto sua falta —> tristeza
+
+# Material de Apoio
+
+- Use a documentação oficial do Python
+    - https://docs.python.org/3/
+
+# Requisitos
+
+- Use Python 3+ **(e CAFÉ ☕️) para resolver o problema;
+- Utilize o git e o github para versionar seu código. Tente enviar (commits) todas etapas de evolução da sua implementação.
+- Crie um readme.md para explicar como utilizar o seu projeto.
